@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.banner-red {
+  background-color: rgb(228, 120, 120);
+  font-family: Arial;
+  font-size: 24px;
+}
+
+#large-blue-text {
+  color: blue;
+  font-size: 48px;
+}
+
+.banner-large {
+  font-size: 32px;
+}
+
+#banner-green {
+  background-color: rgb(101, 255, 101);
+  font-weight: 700;
+}
